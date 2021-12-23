@@ -1,0 +1,14 @@
+D:\VisualStudioProjetos\ImpostoDeRenda\ImpostoDeRenda\bin\Debug\netcoreapp3.1\ImpostoDeRenda.exe
+D:\VisualStudioProjetos\ImpostoDeRenda\ImpostoDeRenda\bin\Debug\netcoreapp3.1\ImpostoDeRenda.deps.json
+D:\VisualStudioProjetos\ImpostoDeRenda\ImpostoDeRenda\bin\Debug\netcoreapp3.1\ImpostoDeRenda.runtimeconfig.json
+D:\VisualStudioProjetos\ImpostoDeRenda\ImpostoDeRenda\bin\Debug\netcoreapp3.1\ImpostoDeRenda.runtimeconfig.dev.json
+D:\VisualStudioProjetos\ImpostoDeRenda\ImpostoDeRenda\bin\Debug\netcoreapp3.1\ImpostoDeRenda.dll
+D:\VisualStudioProjetos\ImpostoDeRenda\ImpostoDeRenda\bin\Debug\netcoreapp3.1\ImpostoDeRenda.pdb
+D:\VisualStudioProjetos\ImpostoDeRenda\ImpostoDeRenda\obj\Debug\netcoreapp3.1\ImpostoDeRenda.csproj.AssemblyReference.cache
+D:\VisualStudioProjetos\ImpostoDeRenda\ImpostoDeRenda\obj\Debug\netcoreapp3.1\ImpostoDeRenda.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProjetos\ImpostoDeRenda\ImpostoDeRenda\obj\Debug\netcoreapp3.1\ImpostoDeRenda.AssemblyInfoInputs.cache
+D:\VisualStudioProjetos\ImpostoDeRenda\ImpostoDeRenda\obj\Debug\netcoreapp3.1\ImpostoDeRenda.AssemblyInfo.cs
+D:\VisualStudioProjetos\ImpostoDeRenda\ImpostoDeRenda\obj\Debug\netcoreapp3.1\ImpostoDeRenda.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjetos\ImpostoDeRenda\ImpostoDeRenda\obj\Debug\netcoreapp3.1\ImpostoDeRenda.dll
+D:\VisualStudioProjetos\ImpostoDeRenda\ImpostoDeRenda\obj\Debug\netcoreapp3.1\ImpostoDeRenda.pdb
+D:\VisualStudioProjetos\ImpostoDeRenda\ImpostoDeRenda\obj\Debug\netcoreapp3.1\ImpostoDeRenda.genruntimeconfig.cache
